@@ -1,1 +1,1 @@
-print("hello world, me llamo Juan Pablo")
+print("Hola, vamos a realizar unas funciones básicas.")
